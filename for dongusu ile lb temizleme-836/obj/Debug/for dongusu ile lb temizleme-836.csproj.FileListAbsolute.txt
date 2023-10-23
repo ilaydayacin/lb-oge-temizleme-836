@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\bin\Debug\for dongusu ile lb temizleme-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\bin\Debug\for dongusu ile lb temizleme-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\bin\Debug\for dongusu ile lb temizleme-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for dongusu ile lb temizleme-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for dongusu ile lb temizleme-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for_dongusu_ile_lb_temizleme_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for_dongusu_ile_lb_temizleme_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for dongusu ile lb temizleme-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for dongusu ile lb temizleme-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for dongusu ile lb temizleme-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\for dongusu ile lb temizleme-836\for dongusu ile lb temizleme-836\obj\Debug\for dongusu ile lb temizleme-836.pdb
